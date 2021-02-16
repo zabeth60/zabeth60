@@ -1,8 +1,8 @@
-- 👋 Hi, I’m  Elisabeth
-- 👀 I’m interested in  par le développ web
-- 🌱 I’m  actuellement en reconversion  professionnel
-  - 💞️ I’m looking  idéalement une formation en alternance
-  - 📫 How to reach me  ?  par email  elisabeth.labeau@neuf.fr
+- 👋 Hello, je suis  Elisabeth
+- 👀 Je suis intéressée par le développement web
+- 🌱 Je suis actuellement en reconversion professionnelle
+  - 💞️ Je cherche idéalement une formation en alternance
+  - 📫 Comment me joindre ? Par e-mail elisabeth.labeau@neuf.fr
 
 <!---
 zabeth60/zabeth60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
