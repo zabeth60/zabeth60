@@ -2,7 +2,7 @@
 - 👀 Je suis intéressée par le développement web
 - 🌱 Je suis actuellement en reconversion professionnelle
   - 💞️ Je cherche idéalement une formation en alternance
-  - 📫 Comment me joindre ? Par e-mail elisabeth.labeau@neuf.fr
+  - 📫 Comment me joindre ? Par e-mail elisabethlabeau@sfr.fr
 
 <!---
 zabeth60/zabeth60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
